@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @AidenPearson25
-- 👀 I’m interested in game design
-- 🌱 I’m currently learning how to work with GitHub
-- 💞️ I’m looking to collaborate on Frogger atm with Casey
-- 📫 How to reach me pearsoa6@miamioh.edu
+- Hi, I'm Aiden "Typha" Pearson
+- I make video games and videos about video games
+- I'm a student at Miami Unviersity partnering with others to make great games
 
 <!---
 AidenPearson25/AidenPearson25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
